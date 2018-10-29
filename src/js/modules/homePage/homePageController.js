@@ -46,36 +46,6 @@
                 'snippet': {
                     'title': 'Video Game'
                 }
-		    }, {
-                'id': 37,
-                'snippet': {
-                    'title': 'Test 1'
-                }
-            }, {
-                'id': 38,
-                'snippet': {
-                    'title': 'Test 2'
-                }
-            }, {
-                'id': 39,
-                'snippet': {
-                    'title': 'Test 3'
-                }
-            }, {
-                'id': 40,
-                'snippet': {
-                    'title': 'Test 4'
-                }
-            }, {
-                'id': 41,
-                'snippet': {
-                    'title': 'Test 5'
-                }
-            }, {
-                'id': 42,
-                'snippet': {
-                    'title': 'Test 6'
-                }
             }]
         }
     ]);
