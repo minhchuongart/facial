@@ -34,7 +34,7 @@
             }, {
                 'id': 2,
                 'snippet': {
-                    'title': 'Travel & Events'
+                    'title': 'Vlogs'
                 }
             }, {
                 'id': 15,
@@ -42,17 +42,17 @@
                     'title': 'People & Blogs'
                 }
 	    }, {
-                'id': 21,
+                'id': 24,
                 'snippet': {
                     'title': 'Test 1'
                 }
             }, {
-                'id': 22,
+                'id': 25,
                 'snippet': {
                     'title': 'Test 2'
                 }
             }, {
-                'id': 23,
+                'id': 26,
                 'snippet': {
                     'title': 'Test 3'
                 }
