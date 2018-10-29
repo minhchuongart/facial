@@ -44,7 +44,7 @@
                 parameters = {
                     'videoCategoryId': categoryId,
                     'part': 'snippet,statistics,contentDetails',
-                    'maxResults': 12,
+                    'maxResults': 10,
                     'chart': 'mostPopular',
                     'pageToken' : $stateParams.pageToken
                 }
