@@ -37,12 +37,12 @@
                     'title': 'Travel & Events'
                 }
             }, {
-                'id': 27,
+                'id': 3,
                 'snippet': {
                     'title': 'Education'
                 }
             }, {
-                'id': 22,
+                'id': 4,
                 'snippet': {
                     'title': 'People & Blogs'
                 }
