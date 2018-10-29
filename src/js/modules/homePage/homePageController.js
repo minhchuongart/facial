@@ -41,21 +41,6 @@
                 'snippet': {
                     'title': 'People & Blogs'
                 }
-	    }, {
-                'id': 24,
-                'snippet': {
-                    'title': 'Entertainment'
-                }
-            }, {
-                'id': 31,
-                'snippet': {
-                    'title': 'Test 2'
-                }
-            }, {
-                'id': 32,
-                'snippet': {
-                    'title': 'Test 3'
-                }
             }, {
                 'id': 20,
                 'snippet': {
