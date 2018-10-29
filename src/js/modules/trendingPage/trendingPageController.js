@@ -5,37 +5,37 @@
                 var categoryId;
                 switch ($stateParams.category) {
                     case 'music':
-						document.title = 'Youtube - Trending in Music';
+						document.title = 'Youtade - Trending in Music';
                         $scope.title = 'Trending in Music';
                         categoryId = 10;
                         break;
                     case 'sports':
-						document.title = 'Youtube - Trending in Sports';
+						document.title = 'Youtade - Trending in Sports';
                         $scope.title = 'Trending in Sports';
                         categoryId = 17;
                         break;
                     case 'technology':
-						document.title = 'Youtube - Trending in Technology';
+						document.title = 'Youtade - Trending in Technology';
                         $scope.title = 'Trending in Technology';
                         categoryId = 28;
                         break;
                     case 'movies':
-						document.title = 'Youtube - Trending in Movies';
+						document.title = 'Youtade - Trending in Movies';
                         $scope.title = 'Trending in Movies';
                         categoryId = 1;
                         break;
                     case 'comedy':
-						document.title = 'Youtube - Trending in Comedy';
+						document.title = 'Youtade - Trending in Comedy';
                         $scope.title = 'Trending in Comedy';
                         categoryId = 23;
                         break;
                     case 'People & Blogs':
-						document.title = 'Youtube - Trending in People & Blogs';
+						document.title = 'Youtade - Trending in People & Blogs';
                         $scope.title = 'Trending in People & Blogs';
                         categoryId = 27;
                         break;
                     default:
-						document.title = 'Youtube - Trending Videos';
+						document.title = 'Youtade - Trending Videos';
                         $scope.title = 'Trending Videos';
                         categoryId = null;
                 }
