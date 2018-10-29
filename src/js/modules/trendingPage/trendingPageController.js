@@ -32,7 +32,7 @@
                     case 'People & Blogs':
 						document.title = 'Youtade - Trending in People & Blogs';
                         $scope.title = 'Trending in People & Blogs';
-                        categoryId = 27;
+                        categoryId = 15;
                         break;
                     default:
 						document.title = 'Youtade - Trending Videos';
