@@ -29,9 +29,9 @@
                         $scope.title = 'Trending in Comedy';
                         categoryId = 23;
                         break;
-                    case 'education':
-						document.title = 'Youtube - Trending in Education';
-                        $scope.title = 'Trending in Education';
+                    case 'People & Blogs':
+						document.title = 'Youtube - Trending in People & Blogs';
+                        $scope.title = 'Trending in People & Blogs';
                         categoryId = 27;
                         break;
                     default:
