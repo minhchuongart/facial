@@ -558,9 +558,10 @@ main {
 .video-channel-carousel {
     background-color: aliceblue;
     padding: 3px 4px;
-    font-size: .9em;
+    font-size: .8em;
     display: block;
     font-weight: 400;
+    color: #585851;
 }
 
 .video-channel-carousel:hover {
